@@ -1,9 +1,9 @@
 <template>
   <div class="banner relative text-right flex place-content-end">
     <img src="@/assets/bg.png" alt="" />
-    <div class="content z-50 text-lg md:text-xl font-semibold w-full text-left">
-      <h1 class="mb-3 font-light text-xxl">Africa Ethics Institute</h1>
-      <h3 class="text-md font-semibold">
+    <div class="content z-50 text-lg lg:text-sm font-semibold w-full text-left">
+      <h1 class="mb-3 font-light text-lg lg:text-xxl">Africa Ethics Institute</h1>
+      <h3 class="text-sm lg:text-md font-semibold">
         Building ethically minded societies, one person at a time.
       </h3>
     </div>
@@ -58,6 +58,7 @@ export default {
 
   .content {
     transform: translate(10%, -50%);
+    width: 90%;
   }
 }
 </style>

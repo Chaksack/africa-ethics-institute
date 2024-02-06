@@ -8,19 +8,16 @@
             <!-- nav items -->
             <ul class="nav-items flex">
                 <li class="link">
-                    <div>Home</div>
+                    <a href="#home">Home</a>
                 </li>
                 <li class="link">
-                    <div>Clients</div>
+                    <a href="#about">About</a>
                 </li>
                 <li class="link">
-                    <div>About</div>
+                    <a href="#board">Board</a>
                 </li>
                 <li class="link">
-                    <div>Research</div>
-                </li>
-                <li class="link">
-                    <div>Publications</div>
+                    <a href="#contact">Contact Us</a>
                 </li>
             </ul>
             <!-- contact btn -->
@@ -46,19 +43,16 @@
                 </svg>
             </div>
             <div class="drawer-item mb-5">
-                <div>Home</div>
+                <a href="#home">Home</a>
             </div>
             <div class="drawer-item mb-5">
-                <div>Clients</div>
+                <a href="#about">About</a>
             </div>
             <div class="drawer-item mb-5">
-                <div>About</div>
+                <a href="#board">Board</a>
             </div>
             <div class="drawer-item mb-5">
-                <div>Research</div>
-            </div>
-            <div class="drawer-item mb-5">
-                <div>Publications</div>
+                <a href="#contact">Contact Us</a>
             </div>
         </div>
     </div>
