@@ -38,7 +38,7 @@
         </div>
         <div class="mt-10">
             <div class="footer-copy text-center text-white">
-                <p>&copy; 2020 <a href="https://www.facebook.com/hoangpham.1999">Africa Ethnics Institute</a>. All Rights Reserved.</p>
+                <p>&copy; 2020 <a href="https://www.facebook.com/hoangpham.1999">Africa Ethics Institute</a>. All Rights Reserved.</p>
             </div>
         </div>
         </div>
